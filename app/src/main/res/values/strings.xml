@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="q1">Question :1 Where is the longest sea-beach in the world? </string>
+    <string name="op1"> Coxs Bazar</string>
+    <string name="op2">  Stockton Beach </string>
+    <string name="op3"> Virginia Beach </string>
+    <string name="op4"> Bali sea Beach</string>
+    <string name="q2"> Question :2 Who is the owner of Android OS?</string>
+
+    <string name="op5"> Walton </string>
+    <string name="op6"> Huwaei </string>
+    <string name="op7"> Apple </string>
+    <string name="op8"> Google </string>
+    <string name="done"> Try Again </string>
+
+
+
+</resources>
